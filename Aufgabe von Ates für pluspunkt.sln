@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe von Ates für pluspunkt", "Aufgabe von Ates für pluspunkt\Aufgabe von Ates für pluspunkt.csproj", "{725DCF87-A867-4E38-9527-5C4961432E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725DCF87-A867-4E38-9527-5C4961432E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725DCF87-A867-4E38-9527-5C4961432E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725DCF87-A867-4E38-9527-5C4961432E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725DCF87-A867-4E38-9527-5C4961432E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2E9AEFA-6C7C-4E49-80A3-C1500EBD3797}
+	EndGlobalSection
+EndGlobal
