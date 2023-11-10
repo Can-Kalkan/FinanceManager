@@ -8,7 +8,7 @@ class Program
     static void Main()
     {
         FinancialManager financialManager = new FinancialManager();
-
+        // der code ist schlecht
         while (true)
         {
             Console.WriteLine("Hauptmenü:");
